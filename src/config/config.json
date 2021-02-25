@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Isha_Deep",
+    "password": null,
+    "database": "quotes_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Isha_Deep",
+    "password": null,
+    "database": "quotes_testt",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Isha_Deep",
+    "password": null,
+    "database": "quotes_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
